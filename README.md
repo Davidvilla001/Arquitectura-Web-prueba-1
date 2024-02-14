@@ -1,8 +1,8 @@
 # Arquitectura-Web-prueba-1
 Primer repositorio clase arquitectura web enero
-# h1
-## h2
-## h3
-#### h4
-##### h5
-###### h6
+# Encabezadoh1
+## Encabezadoh2
+## Encabezadoh3
+#### Encabezadoh4
+##### Encabezadoh5
+###### Encabezadoh6
