@@ -1,0 +1,17 @@
+nav {
+    background-color:turquoise;
+}
+
+nav ol a {
+    background-color :thistle;
+    display: block;
+    list-style: none;
+    padding: 16px;
+    
+}
+
+nav ol {
+    display: flex;
+    padding-left: 0;
+    background-color: azure;
+}
